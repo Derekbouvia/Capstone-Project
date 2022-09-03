@@ -4,10 +4,10 @@
 
 * Logging and Management Infrastructure for cyber.local
 
-  * 
+  * Aim to build a logging and management infrastructure for cyber.local
 
 * APT Demonstration and Analysis
 
-  * 
+  * Choose an Advance Persistent Threat and providing documentation, videos, and a test platform as a training and awareness tool for cyber defenders.
 
   
