@@ -2,7 +2,7 @@
 
 ##  Topic Definition
 
-Logging and Management infrastructure is crucial in helping identify patterns of activity on networks. This is important in providing indicators of compromise and making sure a network remains secure. Creating a robust logging and network system for monitoring our physical and virtual infrastructure for cyber.local is important for obvious reasons.
+Logging and Management infrastructure is crucial in helping identify patterns of activity on networks. This is important in providing indicators of compromise and making sure a network remains secure. Creating a robust logging and network system for monitoring our physical and virtual infrastructure for cyber.local is important for obvious reasons. 
 
 ## Topic Overview
 
