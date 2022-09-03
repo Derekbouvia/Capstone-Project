@@ -2,7 +2,7 @@
 
 ##  Topic Definition
 
-Advanced Persistent Threats are real and prevalent in todays world. They are targeted cyberattacks 
+Advanced Persistent Threats are real and prevalent in todays world. They are targeted cyberattacks
 
 ## Topic Overview
 
