@@ -10,4 +10,9 @@ As someone who is fairly new to logging and management infrastructure I think th
 
 ## Topic Description
 
-I would like to build a logging and management infrastructure for cyber.local with the tools that are recommended wazuh/elk etc which would include dashboards that show system status, logged on users, resource utilization and security events.
+* I would like to build a logging and management infrastructure for cyber.local with the tools that are recommended wazuh/elk etc 
+*  Dashboards that include
+  * system status
+  * logged on users 
+  * resource utilization
+  *  security events.
