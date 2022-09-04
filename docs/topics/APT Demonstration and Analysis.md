@@ -2,7 +2,7 @@
 
 ##  Topic Definition
 
-Advanced Persistent Threats are real and prevalent in todays world. They are targeted cyberattacks gain access to a network and remains undetected for an extended period of time. They are more focused on stealing data or to impede aspects of a mission or organization and it does so repeatedly over an extended period of time hence the name.
+Advanced Persistent Threats are real and prevalent in todays world. They are targeted cyberattacks that gain access to a network and remain undetected for an extended period of time. They are more focused on stealing data or to impede aspects of a mission or organization and it does so repeatedly over an extended period of time hence the name.
 
 ## Topic Overview
 
