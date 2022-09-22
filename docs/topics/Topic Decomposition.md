@@ -22,9 +22,11 @@ This will include the building and configuring of all the services that will be 
 
 #### Monitoring Solutions
 
-I will be breaking down the specific options to be used for monitoring and what is requested for the project whether that be Wazuh or Elk or a combination of both as well as different things to consider with each lik the security ease of use etc.
+I will be breaking down the specific options to be used for monitoring and what is requested for the project whether that be Wazuh or Elk or a combination of both as well as different things to consider with each like the security ease of use, how to combine the monitoring solutions to include the different features on the dashboard that are required like system status security events, logged on users, resource utilization and things of that nature.
 
-#### Build documentation
+#### Build documentation/Training
+
+With these objectives comes the task of documenting how this was all executed so that it can be replicated and well as references for use and training for students/ users to know how to utilize the logging and system infrastructure and be able to use the new system.
 
 
 
