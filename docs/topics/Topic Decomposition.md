@@ -4,27 +4,29 @@ The following mindmap and outline represents an initial decomposition of the Log
 
 # Mindmap
 
+
+
 The mindmap can be seen below can be viewed and saved at this [link](https://user-images.githubusercontent.com/70984955/190924613-18b14079-12de-4f3c-955f-cb480d8100cc.png)
 
 ![https://user-images.githubusercontent.com/70984955/190924613-18b14079-12de-4f3c-955f-cb480d8100cc.png](https://user-images.githubusercontent.com/70984955/190924613-18b14079-12de-4f3c-955f-cb480d8100cc.png)
 
-## Network Infrastructure
+# Network Infrastructure
 
 I broke this down into two sections, the Virtual infrastructure and the physical infrastructure. In order to design and implement a Logging and Management Infrastructure for cyber.local both these will need to be address.
 
-#### Physical Infrastructure
+## Physical Infrastructure
 
 This will include the actual equipment that will be used to support the logging and management infrastructure. Once it is determined what will be needed in order to efficient provide for what is required for the cyber.local logging infrastructure to run and if there is hardware already available or if other hardware needs to be purchased.
 
-#### Virtual Infrastructure
+## Virtual Infrastructure
 
 This will include the building and configuring of all the services that will be used for the purpose of this service.
 
-#### Monitoring Solutions
+## Monitoring Solutions
 
 I will be breaking down the specific options to be used for monitoring and what is requested for the project whether that be Wazuh or Elk or a combination of both as well as different things to consider with each like the security ease of use, how to combine the monitoring solutions to include the different features on the dashboard that are required like system status security events, logged on users, resource utilization and things of that nature.
 
-#### Build documentation/Training
+## Build documentation/Training
 
 With these objectives comes the task of documenting how this was all executed so that it can be replicated and well as references for use and training for students/ users to know how to utilize the logging and system infrastructure and be able to use the new system.
 
